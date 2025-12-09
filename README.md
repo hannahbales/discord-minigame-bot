@@ -29,6 +29,15 @@ Additional Features:
 
     Full Discord Integration: Uses Discord’s embeds and command system
 
+## My Contributions
+Developed mini-game logic for both Blackjack and Word Scramble.
+
+Acted as the Product Owner during development.
+
+Assisted with debugging, testing, and GitHub version control.
+
+Wrote documentation and participated in sprint planning.
+
 ## Tech Stack
 
     Language: Python
@@ -61,16 +70,11 @@ Run the bot:
 ## Demos
 Blackjack Mini-game Demo:
 
+[![Demo Video](media/thumbnail2.png)](https://youtu.be/ZqZaqVbJ8rE)
+
 Word Scramble Demo:
 
-## My Contributions
-Developed mini-game logic for both Blackjack and Word Scramble.
-
-Acted as the Product Owner during development.
-
-Assisted with debugging, testing, and GitHub version control.
-
-Wrote documentation and participated in sprint planning.
+[![Demo Video](media/thumbnail1.png)](https://youtu.be/W4zKZjpHino)
 
 ## License
 This project is for educational purposes and not intended for commercial use.
